@@ -78,7 +78,7 @@ Building
 The java side of the project uses maven and can be build as normal (`mvn install`). The native code should be build
 as part of the standard build process.
 
-Note, that if you are not on intel machine, or you are on older system like rhel7, you have to first self build [wildfly-openssl-natives](../wildfly-openssl-natives?tab=readme-ov-file#building).
+Note, that if you are not on intel machine, or you are on older system like rhel7, you have to first self build [wildfly-openssl-natives](../../wildfly-openssl-natives?tab=readme-ov-file#building).
 
 ### Windows
 
